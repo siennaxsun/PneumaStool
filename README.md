@@ -15,7 +15,7 @@ This project was developed under the topic:
 
 ---
 
-## 🎯 My Contribution
+### My Contribution
 
 I was responsible for:
 - Designing the **fiber placement pattern** on a flat 2D chair layout using Grasshopper.
