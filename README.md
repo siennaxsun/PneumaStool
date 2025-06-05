@@ -15,12 +15,12 @@ This project was developed under the topic:
 
 ---
 
-### My Contribution
+### Note
 
 I was responsible for:
 - Designing the **fiber placement pattern** on a flat 2D chair layout using Grasshopper.
 - Exploring patterning strategies to influence the structural and bending behavior during inflation.
 
----
+Further work includes the simulation of the flat 2D chair with fiber patterns being actuated into 3D shape in replace of the conventional formwork, and how different patterns affect the shaping processing
 
 
